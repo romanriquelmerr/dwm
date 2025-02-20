@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Dwm-Ferchuuuuuu
+Comment=Dynamic window manager
+Exec=dwm
+Icon=dwm.png
+Type=XSession
+

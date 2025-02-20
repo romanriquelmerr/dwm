@@ -1,0 +1,14 @@
+# sxhkd para crear atajos de teclado
+
+#recargar sxhkd
+super + Escape
+	pkiill -USR1 -x sxhkd
+
+#Lanzar Brave
+super + b
+	brave-browser
+
+#Lanzar thunar
+super + a
+	thunar
+
