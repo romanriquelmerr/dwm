@@ -1,3 +1,5 @@
+CREDITOS TOTALES A FENANDO PESSOA (DOT FILE PARA USO PERSONAL)
+
 # My build of Dwm - Dynamic window manager
 
 ![build of Dwm](./screenshot_dwm.png)
